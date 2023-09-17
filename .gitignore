@@ -1,0 +1,4 @@
+.env
+clientSecrets.json
+newClientSecret.json
+token.pickle
